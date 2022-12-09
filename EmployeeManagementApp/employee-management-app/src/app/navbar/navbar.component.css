@@ -39,21 +39,3 @@ nav ul li a {
   font-weight: bold;
   cursor: pointer;
 }
-
-.logout-btn {
-  background: transparent;
-  text-decoration: none;
-  border: 2px solid black;
-  border-radius: 30px;
-  padding: 12px 25px;
-  font-size: 14px;
-  font-weight: bold;
-  margin-left: 80px;
-  cursor: pointer;
-}
-
-.logout-btn:hover {
-  background-color: black;
-  color: #eae7dc;
-  transition: 0.3s;
-}
